@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<urlset xmlns:xhtml="http://www.w3.org/1999/xhtml"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>/</loc>
+		<lastmod>2023-10-27T03:39:45+00:00</lastmod>
+		<image:image>
+			<image:loc>/uploads/2023/10/4-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/uploads/2023/10/6.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/uploads/2023/10/Eiffel-tower-Paris-France.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/uploads/2023/10/Puerta-del-Sol-13-28013-Madrid-Spain-Madrid.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/uploads/2023/10/Rialto-Bridge-Venezia-Italy-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/uploads/2023/10/5.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/uploads/2023/10/20.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/uploads/2023/10/18.jpg</image:loc>
+		</image:image>
+	<xhtml:link rel='alternate' hreflang='es-ES' href='/' />
+<xhtml:link rel='alternate' hreflang='en-GB' href='/en/' />
+<xhtml:link rel='alternate' hreflang='x-default' href='/' />
+</url>
+<url>
+<loc>/en/</loc>
+<lastmod>2023-10-27T11:39:45+08:00</lastmod>
+<image:image><image:loc>/uploads/2023/10/4-1.jpg</image:loc></image:image>
+<image:image><image:loc>/uploads/2023/10/6.jpg</image:loc></image:image>
+<image:image><image:loc>/uploads/2023/10/Eiffel-tower-Paris-France.jpg</image:loc></image:image>
+<image:image><image:loc>/uploads/2023/10/Puerta-del-Sol-13-28013-Madrid-Spain-Madrid.jpg</image:loc></image:image>
+<image:image><image:loc>/uploads/2023/10/Rialto-Bridge-Venezia-Italy-scaled.jpg</image:loc></image:image>
+<image:image><image:loc>/uploads/2023/10/5.jpg</image:loc></image:image>
+<image:image><image:loc>/uploads/2023/10/20.jpg</image:loc></image:image>
+<image:image><image:loc>/uploads/2023/10/18.jpg</image:loc></image:image>
+<xhtml:link rel='alternate' hreflang='es-ES' href='/' />
+<xhtml:link rel='alternate' hreflang='en-GB' href='/en/' />
+<xhtml:link rel='alternate' hreflang='x-default' href='/' />
+</url>
+
+	<url>
+		<loc>/aviso-legal/</loc>
+		<lastmod>2023-10-26T08:40:32+00:00</lastmod>
+	<xhtml:link rel='alternate' hreflang='es-ES' href='/aviso-legal/' />
+<xhtml:link rel='alternate' hreflang='en-GB' href='/en/legal-warning/' />
+<xhtml:link rel='alternate' hreflang='x-default' href='/aviso-legal/' />
+</url>
+<url>
+<loc>/en/legal-warning/</loc>
+<lastmod>2023-10-26T16:40:32+08:00</lastmod>
+<xhtml:link rel='alternate' hreflang='es-ES' href='/aviso-legal/' />
+<xhtml:link rel='alternate' hreflang='en-GB' href='/en/legal-warning/' />
+<xhtml:link rel='alternate' hreflang='x-default' href='/aviso-legal/' />
+</url>
+
+	<url>
+		<loc>/politica-de-cookies/</loc>
+		<lastmod>2023-10-26T08:40:04+00:00</lastmod>
+	<xhtml:link rel='alternate' hreflang='es-ES' href='/politica-de-cookies/' />
+<xhtml:link rel='alternate' hreflang='en-GB' href='/en/cookies-policy/' />
+<xhtml:link rel='alternate' hreflang='x-default' href='/politica-de-cookies/' />
+</url>
+<url>
+<loc>/en/cookies-policy/</loc>
+<lastmod>2023-10-26T16:40:04+08:00</lastmod>
+<xhtml:link rel='alternate' hreflang='es-ES' href='/politica-de-cookies/' />
+<xhtml:link rel='alternate' hreflang='en-GB' href='/en/cookies-policy/' />
+<xhtml:link rel='alternate' hreflang='x-default' href='/politica-de-cookies/' />
+</url>
+
+	<url>
+		<loc>/condiciones-generales/</loc>
+		<lastmod>2023-10-24T10:02:33+00:00</lastmod>
+	<xhtml:link rel='alternate' hreflang='es-ES' href='/condiciones-generales/' />
+<xhtml:link rel='alternate' hreflang='en-GB' href='/en/general-conditions/' />
+<xhtml:link rel='alternate' hreflang='x-default' href='/condiciones-generales/' />
+</url>
+<url>
+<loc>/en/general-conditions/</loc>
+<lastmod>2023-10-24T18:02:33+08:00</lastmod>
+<xhtml:link rel='alternate' hreflang='es-ES' href='/condiciones-generales/' />
+<xhtml:link rel='alternate' hreflang='en-GB' href='/en/general-conditions/' />
+<xhtml:link rel='alternate' hreflang='x-default' href='/condiciones-generales/' />
+</url>
+
+	<url>
+		<loc>/politica-de-privacidad/</loc>
+		<lastmod>2023-10-24T10:02:29+00:00</lastmod>
+	<xhtml:link rel='alternate' hreflang='es-ES' href='/politica-de-privacidad/' />
+<xhtml:link rel='alternate' hreflang='en-GB' href='/en/privacy-policy/' />
+<xhtml:link rel='alternate' hreflang='x-default' href='/politica-de-privacidad/' />
+</url>
+<url>
+<loc>/en/privacy-policy/</loc>
+<lastmod>2023-10-24T18:02:29+08:00</lastmod>
+<xhtml:link rel='alternate' hreflang='es-ES' href='/politica-de-privacidad/' />
+<xhtml:link rel='alternate' hreflang='en-GB' href='/en/privacy-policy/' />
+<xhtml:link rel='alternate' hreflang='x-default' href='/politica-de-privacidad/' />
+</url>
+
+	<url>
+		<loc>/contacto/</loc>
+		<lastmod>2023-10-18T15:30:32+00:00</lastmod>
+	<xhtml:link rel='alternate' hreflang='es-ES' href='/contacto/' />
+<xhtml:link rel='alternate' hreflang='en-GB' href='/en/contact/' />
+<xhtml:link rel='alternate' hreflang='x-default' href='/contacto/' />
+</url>
+<url>
+<loc>/en/contact/</loc>
+<lastmod>2023-10-18T23:30:32+08:00</lastmod>
+<xhtml:link rel='alternate' hreflang='es-ES' href='/contacto/' />
+<xhtml:link rel='alternate' hreflang='en-GB' href='/en/contact/' />
+<xhtml:link rel='alternate' hreflang='x-default' href='/contacto/' />
+</url>
+
+	<url>
+		<loc>/viaje/</loc>
+		<lastmod>2023-10-05T11:35:47+00:00</lastmod>
+	<xhtml:link rel='alternate' hreflang='es-ES' href='/viaje/' />
+<xhtml:link rel='alternate' hreflang='en-GB' href='/en/journey/' />
+<xhtml:link rel='alternate' hreflang='x-default' href='/viaje/' />
+</url>
+<url>
+<loc>/en/journey/</loc>
+<lastmod>2023-10-05T19:35:47+08:00</lastmod>
+<xhtml:link rel='alternate' hreflang='es-ES' href='/viaje/' />
+<xhtml:link rel='alternate' hreflang='en-GB' href='/en/journey/' />
+<xhtml:link rel='alternate' hreflang='x-default' href='/viaje/' />
+</url>
+
+	<url>
+		<loc>/mapa-del-sitio/</loc>
+		<lastmod>2023-10-02T12:05:30+00:00</lastmod>
+	<xhtml:link rel='alternate' hreflang='es-ES' href='/mapa-del-sitio/' />
+<xhtml:link rel='alternate' hreflang='en-GB' href='/en/site-map/' />
+<xhtml:link rel='alternate' hreflang='x-default' href='/mapa-del-sitio/' />
+</url>
+<url>
+<loc>/en/site-map/</loc>
+<lastmod>2023-10-02T20:05:30+08:00</lastmod>
+<xhtml:link rel='alternate' hreflang='es-ES' href='/mapa-del-sitio/' />
+<xhtml:link rel='alternate' hreflang='en-GB' href='/en/site-map/' />
+<xhtml:link rel='alternate' hreflang='x-default' href='/mapa-del-sitio/' />
+</url>
+
+</urlset>
